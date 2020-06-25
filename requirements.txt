@@ -48,7 +48,6 @@ PyInstaller==3.6
 PyJWT==1.7.1
 pylint==2.5.2
 PyMsgBox==1.0.8
-pyobject==1.0
 pyparsing==2.4.7
 pyperclip==1.8.0
 PyRect==0.1.4
