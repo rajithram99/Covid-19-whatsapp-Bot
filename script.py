@@ -23,8 +23,8 @@ def display_all():
     return result
 
 
-account_sid = "ACd8bdbb137ca4f402879f6a995f66eeb2"
-auth_token = "964ede52e7fa51a3662c0fe1737e221e"
+account_sid = "<Your account-sid>"
+auth_token = "<Your auth_token>"
 client = Client(account_sid, auth_token)
 
 
