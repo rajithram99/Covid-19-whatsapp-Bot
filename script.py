@@ -32,7 +32,7 @@ def func():
     message = client.messages.create(
         from_='whatsapp:+14155238886',
         body=display_all(),
-        to='whatsapp:+919717423241')
+        to='whatsapp:+91123456789')
 
     return message
 
